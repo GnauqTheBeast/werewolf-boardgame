@@ -163,7 +163,7 @@ function App() {
         {/* Footer */}
         <footer className="mt-12 pt-8 text-center border-t border-slate-200 dark:border-slate-700">
           <p className="text-sm text-slate-500 dark:text-slate-400">
-            Made with ❤️ from QuangNguyen
+            Made with ❤️ by QuangNguyen
           </p>
         </footer>
       </div>
